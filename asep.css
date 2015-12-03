@@ -1,0 +1,185 @@
+body{
+background: #fff;
+
+margin: auto;
+}
+#header{
+background: url(header.jpg)no-repeat center center fixed ;
+background-size: cover;
+-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+width: auto;
+height: 70px;
+margin: auto;
+
+}
+#menu{
+background: url(menu.jpg)no-repeat center center fixed;
+background-size: cover;
+width: auto;
+height: 95px;
+font-size: 12pt;
+margin-bottom:0px;
+
+}
+#slider{
+	margin-bottom: 100px;
+	height: 30px;	
+}
+
+#content{
+margin: 10px 170px 50px 170px;
+
+}
+
+#footer{
+
+	background: url(bawah.jpg)no-repeat center center fixed;
+	background-size: cover;
+	width: auto;
+	height: 220px;
+    float: bottom;
+	margin-top: 200px;
+}
+
+#kontak{
+    
+    padding-top: 20px;
+    float: left;
+    width: 670px;
+    margin-right: 15px;
+    font-weight: bold;
+    font-size: 12pt;
+}
+
+#isifooter{
+margin: 0 170px 0 170px;
+
+}
+
+#follow{
+    font-weight: bold;
+    font-size: 12pt;   
+    padding-top: 20px;
+    width: 300px;
+    float: right;
+
+}
+
+#isi{
+	background:  #fff;
+	width: auto;
+    height: auto;
+    
+	margin-left: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+
+}
+
+#isi h3{
+    padding-top: 15px;
+    font-weight: bold;
+}
+#isi h3 hr{
+    color: #55FF00;
+}
+
+#isi h3 a{
+    text-decoration: none;
+    color: #23BA6D
+    }
+
+#isi p{
+    text-align: justify;
+    color: #73D470;
+    margin-bottom: 10px;
+}
+
+#kotak{
+    
+    
+    margin-bottom: 20px;
+    width: 250px;
+    background: #23BA6D;
+    border-right: 2px solid;
+    border-bottom: 4px solid;
+    float: left;
+
+}
+#kotak ul{
+    text-decoration: none;
+    display: block;
+    list-style: none;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+#kotak ul li{
+    
+    border-bottom: 1px dashed;
+    margin-right: 30px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+#kotak ul li a{
+    text-decoration: none;
+    color: #E1E1E1;
+    font-weight: bold;
+    font-size: 12pt;
+    font-family: arial;
+    font-style: italic;
+    }
+
+#header .content {
+
+margin: 0 170px 0 170px;
+}
+#header .content #form {
+float: right;
+padding: 20px 0;
+
+}
+#header .content #form #input{
+background: transparent;
+    border: none;
+    border-bottom: 1px dashed #fff;
+    width: 200px;
+    outline: none;
+    padding: 0px 0px 0px 0px;
+    font-style: bold;
+}
+#header .content img {
+float: left;
+
+}
+#menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 40px 10px 0 30px;
+    overflow: hidden;
+    float: right;
+    margin: 0 170px 0 170px;
+    display:block;
+    
+}
+
+#menu ul li {
+    float: left;
+    padding-left: 25px;
+     list-style: none;
+     border-right: 1px dashed green;
+     padding-right: 25px ;
+}
+
+#menu ul li a {
+    display: block;
+    width: 60px;
+    background: transparent;
+    color: #fff;
+    font-weight: bold;
+    text-decoration:none;
+
+}
